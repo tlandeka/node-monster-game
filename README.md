@@ -2,7 +2,7 @@
  
 # Dependencie
 - nvm - use nvm to install node 8.9.1 or some greater version (eg. 10, 11) 
-- yarn(do not use npm to install yarn. Install yarn using OS package manager (yum, dnf, apt-get, brew..)
+- yarn - do not use npm to install yarn. Install yarn using OS package manager (yum, dnf, apt-get, brew..)
 - docker - not required
 
 # Usage
