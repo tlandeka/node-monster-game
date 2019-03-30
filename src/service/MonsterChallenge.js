@@ -55,7 +55,7 @@ export default class MonsterChallenge {
     }
 
     async printLeftOverCities(){
-        console.log("Left Over Cities \n");
+        console.log("\n[Left Over Cities]");
         for(var cityName in this.worldX){
             console.log(this.worldX[cityName].getCityDetailsForFileWriting());
         }
